@@ -8,8 +8,7 @@ var app = express();
 
 
 /** 1) Meet the node console. */
-const count = 5;
-console.log('count: %d', count);
+console.log("Hello World");
 
 /** 2) A first working Express Server */
 
